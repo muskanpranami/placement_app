@@ -49,7 +49,6 @@ npm start
 
 The app will be accessible at http://localhost:3200 by default.
 
-## Hosting Link:
-
+## Hosting Link: https://muskanpranami.github.io/placement_app/
 
 Feel free to explore and enhance the functionality of the Team Career Camp Database Management Web Application!
